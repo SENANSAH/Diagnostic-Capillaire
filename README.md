@@ -51,8 +51,8 @@ L’objectif de cette application est de simplifier le diagnostic capillaire et 
 
 ## 📦 Exemples de Produits Recommandés
 
-- **Lait capillaire hydratant** : Pour les cheveux secs nécessitant une hydratation intense.
-- **Shampooing au savon noir** : Pour un cuir chevelu gras ou irrité.
+- **Lait capillaire et la crème hydratants** : Pour les cheveux secs nécessitant une hydratation intense.
+- **Huile de Neem** : Pour un cuir chevelu gras ou irrité.
 - **Huile pousse cheveux** : Pour renforcer et stimuler la croissance des cheveux.
 
 ## 🎨 Améliorations Futures
