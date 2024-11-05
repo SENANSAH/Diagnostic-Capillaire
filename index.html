@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagnostic Capillaire - Mlle Akoueka</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Diagnostic Capillaire</h1>
+        <p>Chargez une photo de vos cheveux ou de votre cuir chevelu :</p>
+        <input type="file" id="imageUpload" accept="image/*">
+        <button onclick="analyzeImage()">Analyser</button>
+        <div id="result"></div>
+        <p id="recommendation"></p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image"></script>
+    <script src="script.js"></script>
+</body>
+</html>
